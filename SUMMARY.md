@@ -1,6 +1,6 @@
 # Table of contents
 
-* [前言](README.md)
+* [随手记开篇](README.md)
 
 ## 阅读笔记
 
