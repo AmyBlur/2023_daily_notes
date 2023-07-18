@@ -6,7 +6,7 @@
 
 * [以太坊 L2 概念](yue-du-bi-ji/yi-tai-fang-l2-gai-nian.md)
 * [L2 的 DEX 和链桥](yue-du-bi-ji/l2-de-dex-he-lian-qiao.md)
-* [L2 的现状](yue-du-bi-ji/l2-xian-zhuang.md)
+
 
 ## 思考笔记
 
