@@ -2,13 +2,13 @@
 
 * [随手记开篇](README.md)
 
-## 阅读笔记
+## 纷繁复杂的世界啊
 
-* [以太坊 L2 概念](yue-du-bi-ji/yi-tai-fang-l2-gai-nian.md)
-* [L2 的 DEX 和链桥](yue-du-bi-ji/l2-de-dex-he-lian-qiao.md)
+* [初识以太坊 L2](group1/l2_in_ethereum.md)
+* [L2 的 DEX 和链桥](group1/l2_dex_bridge.md)
 
 
-## 思考笔记
+## 是谁在吟唱
 
 * [笔记1](si-kao-bi-ji/bi-ji-1.md)
 * [笔记2](si-kao-bi-ji/bi-ji-2.md)
